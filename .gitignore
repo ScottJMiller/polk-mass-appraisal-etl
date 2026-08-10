@@ -1,0 +1,36 @@
+# Python/Environment
+__pycache__/
+*.pyc
+*.pyd
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Data Files (Track schema/pipeline only)
+data/parquet
+data/raw
+*.csv
+*.txt
+*.shp
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shx
+*.cpg
+*.parquet
+
+# Messy ETL
+scripts/etl_deep
+
+# DuckDB Temporary Files
+*.duckdb
+*.duckdb.tmp
+*.duckdb WAL
+
+# IDE / OS
+.vscode/
+.DS_Store
