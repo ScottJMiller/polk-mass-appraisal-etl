@@ -48,4 +48,4 @@ The pipeline calculates standard mass appraisal uniformity metrics as governed b
 
 ## Data Dictionary
 
-For full table schemas, column definitions and transformation logic, please refer to **`data_dictionary.md`**.
+For full table schemas, column definitions and transformation logic, please refer to [**`data_dictionary.md`**](https://github.com/ScottJMiller/polk-mass-appraisal-etl/blob/main/docs/data_dictionary.md).
